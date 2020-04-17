@@ -1,0 +1,1 @@
+letstatusSpan = document.querySelector("#questions");
