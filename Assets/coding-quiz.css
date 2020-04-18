@@ -1,3 +1,6 @@
-.highclass{
+.hideclass{
     display: none;
+}
+.answers{
+    display: block;
 }
